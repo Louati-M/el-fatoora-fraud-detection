@@ -1,1 +1,1 @@
-# el-fatoora-fraud-detection
+# El Fatoora Fraud Detection Project
